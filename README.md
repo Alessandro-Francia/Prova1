@@ -8,7 +8,6 @@
 - Ah, fai attenzione al tuo arrivo alla meta, ci potrebbero essere...
 COMPLICAZIONI
 ## Per l'avvio del gioco:
-- Assicurati di aver scaricato tutti i file presenti (6 Immagini, 1 file .md, 1 file .py, 1 file .txt)
-- - Il file .txt serve da backup per il codice in caso il file .py non si aprisse
-- - Il file .py si apre solo se in una cartella con le 6 immagini
+- Assicurati di aver scaricato tutti i file presenti (6 Immagini, 1 file .md, 1 file .py)
+- - Il Gioco si apre solo se il file .py è in una cartella con le 6 immagini
 ## BUON DIVERTIMENTO! E BUONA FORTUNA PER IL TUO TRAGITTO...
