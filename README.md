@@ -9,6 +9,6 @@
 COMPLICAZIONI
 ## Per l'avvio del gioco:
 - Assicurati di aver scaricato tutti i file presenti (6 Immagini, 1 file .py)
-- Assiurati di aver installato l'ultima versione di pygame (2.0.0), se non hai pygame scrivi sul terminale questo: py -m pip install -U pygame --user
+- Assiurati di aver installato pygame, se non hai pygame scrivi sul terminale questo: py -m pip install -U pygame --user
 - Il Gioco si apre solo se il file .py è in una cartella con le 6 immagini
 ## BUON DIVERTIMENTO! E BUONA FORTUNA PER IL TUO TRAGITTO...
